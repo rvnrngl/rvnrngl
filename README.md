@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Raven Ringel</h1>
+<h1 align="center">Hi 👋, I'm RAVEN RINGEL</h1>
 <h3 align="center">A passionate frontend developer from the Philippines.</h3>
 <img align="right" alt="codingGif" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
