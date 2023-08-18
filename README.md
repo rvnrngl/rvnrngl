@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi there 👋, I'm RAVEN RINGEL</h1>
+<h1 align="center">Hi there 👋, I'm Raven Ringel</h1>
 <h3 align="center">A passionate web developer from the Philippines.</h3>
 <img align="right" alt="codingGif" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ravenprog17@gmail.com**
 
-- ⚡ Fun fact **I like watching anime and reading manga!**
+- ⚡ Fun fact **I like watching anime, reading manga, and coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
