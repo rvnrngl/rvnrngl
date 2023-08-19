@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **coding, anime, movies and stuff.**
 
-- 📫 How to reach me **ravenprog17@gmail.com**
+- 📫 How to reach me? **ravenprog17@gmail.com**
 
 - ⚡ Fun fact **I like watching anime, reading manga, and coding!**
 
