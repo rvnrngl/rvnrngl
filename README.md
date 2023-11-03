@@ -13,7 +13,7 @@
 
 - 📫 How to reach me? **ravenprog17@gmail.com**
 
-- ⚡ Fun fact **I like watching anime, reading manga, and coding!**
+- ⚡ Fun fact **I like watching anime, reading manga, and CODING!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
