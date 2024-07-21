@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvnrngl&label=Profile%20views&color=0e75b6&style=flat" alt="rvnrngl" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **ASP.NET & REACTJS**
 
 - 👨‍💻 All of my projects are available at [https://rvnrngl.github.io/my-portfolio/](https://rvnrngl.github.io/my-portfolio/)
 
